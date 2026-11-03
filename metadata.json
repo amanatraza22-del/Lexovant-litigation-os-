@@ -1,0 +1,6 @@
+{
+  "name": "LEXOVANT LitigationOS",
+  "description": "Your Complete Litigation Practice Workspace. Enterprise legal management, AI legal assistant, case intelligence, drafting, court diary and limitation calculator for Indian advocates and law firms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
